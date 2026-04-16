@@ -1,0 +1,3 @@
+(library
+ (name battle_cards)
+ (modules Battle_Cards_List Battle_Cards))
